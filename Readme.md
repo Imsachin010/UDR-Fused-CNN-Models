@@ -33,3 +33,23 @@ Cancer is the leading cause of mortality, with Breast cancer accounting for 27.7
 
 This model addresses the dynamic landscape of multiple cancer research and treatment approaches for large-scale datasets, including Breast cancer, Lung cancer, Alzheimer, etc.
 
+## Dependencies
+
+- TensorFlow
+- scikit-learn
+- Matplotlib
+- IPython
+- Pandas
+- PIL (Python Imaging Library)
+- TQDM
+- NumPy
+- Copy
+- PyTorch
+
+## Citation
+
+If you use or refer to this work, please cite the following research paper:
+
+**"UDR Fused Multimodal Approach for Disease Classification in Large-scale Dataset with Advanced CNNs"**
+
+[Sachin Mishra et. al, 6th International conference on ISMS 2023]
